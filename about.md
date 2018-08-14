@@ -28,7 +28,7 @@ I spent 6 months doing internship at Microsoft Research Asia in Beijing. I also 
 ![]({{ "/images/in_paris.jpg" | relative_url }})
 *Eiffel Tower, Paris, France*
 
-![]({{ "/images/great_wall.jpg" | relative_url }})
+![]({{ "/images/great_wall_badaling.jpg" | relative_url }})
 *Great Wall at Badaling, Beijing, China*
 
 
