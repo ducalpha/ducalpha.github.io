@@ -11,18 +11,18 @@ My name is Duc Bui (English: Duke, Vietnamese: Bùi Hoàng Đức, Chinese: 裴�
 
 I was born on June, 1987.
 While Vietnam imposed the “[two-child policy](https://www.wikiwand.com/en/Two-child_policy)”, I have another older brother.
-My memory begins at my parents’ home in Mai Dong, Hanoi, where we lived in a very little apartment of 9 square meters.
-We later moved to a big house on Nguyen Chi Thanh Street.
+My memory begins at my parents’ home in Mai Dong, Hanoi, where we lived in a very small 9-square-meter apartment.
+Fortunately, we later moved to a big house on Nguyen Chi Thanh Street, a more developed region of the city.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/hanoi_panorama-skyline_gallery/43111123921/" title="vl_06154"><img src="https://farm2.staticflickr.com/1830/43111123921_980884c2e9_b.jpg" width="1024" height="683" alt="vl_06154"></a>
 *Nguyen Chi Thanh Street, Hanoi, Vietnam*
 
-Due to major political changes in 1990s, our family moved again, and eventually, settled down in Bach Khoa Ward, home of Hanoi University of Science and Technology.
+Due to major political changes in 1990s, our family moved again, and eventually, settled down in Bach Khoa Ward, home of [Hanoi University of Science and Technology](https://www.wikiwand.com/en/Hanoi_University_of_Science_and_Technology).
 
-I went to Daejeon in South Korea in August 2010.
-I had hobbies in photography, running and hiking. I hiked the 800-meter [Gyeryong-san 雞龍山](https://www.wikiwand.com/en/Gyeryongsan) mountain for more than 60 times, about once per month on average.
+I went to Daejeon in South Korea in August 2010 for attending Korea Advanced Institute of Science and Technology ([KAIST](https://www.wikiwand.com/en/KAIST)).
+During this time, I had hobbies in photography, running and hiking. I hiked the 800-meter [Gyeryong-san 雞龍山](https://www.wikiwand.com/en/Gyeryongsan) mountain for more than 60 times.
 
-I spent 6 months doing internship at Microsoft Research Asia in Beijing. I also have chance to visit Europe for presenting my papers at MobiCom conference.
+Besides, I spent 6 months doing internship at Microsoft Research Asia in Beijing. I also have chance to visit Europe for presenting my papers at MobiCom conference.
 
 
 ![]({{ "/images/in_paris.jpg" | relative_url }})
